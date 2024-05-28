@@ -4,7 +4,11 @@ Welcome to the Hotel Management System! This project is a comprehensive hotel ma
 
 # Features
 User Authentication: Secure login for administrators and staff.
+
 Room Management: Add, update, and delete room details.
+
 Reservation System: Book rooms for guests, manage check-ins and check-outs.
+
 Customer Management: Maintain a database of customers with contact details.
+
 Responsive Design: User-friendly interface accessible on various devices.
