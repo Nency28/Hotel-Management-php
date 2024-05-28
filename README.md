@@ -12,3 +12,10 @@ Reservation System: Book rooms for guests, manage check-ins and check-outs.
 Customer Management: Maintain a database of customers with contact details.
 
 Responsive Design: User-friendly interface accessible on various devices.
+
+# Technologies Used
+
+Backend: PHP
+Database: MySQL
+Frontend: HTML, CSS, JavaScript
+Libraries: Bootstrap for responsive design, jQuery for enhanced UI interactions
