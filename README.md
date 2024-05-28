@@ -16,6 +16,9 @@ Responsive Design: User-friendly interface accessible on various devices.
 # Technologies Used
 
 Backend: PHP
+
 Database: MySQL
+
 Frontend: HTML, CSS, JavaScript
+
 Libraries: Bootstrap for responsive design, jQuery for enhanced UI interactions
