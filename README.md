@@ -1,4 +1,4 @@
-# Hotel ManagementSystem
+# Hotel Management System
  
 Welcome to the Hotel Management System! This project is a comprehensive hotel management application developed using PHP and MySQL. It provides an intuitive interface for hotel staff to manage reservations, check-ins, check-outs, and more. The system is designed to improve the efficiency of hotel operations and enhance the customer experience.
 
